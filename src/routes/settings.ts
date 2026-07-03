@@ -12,7 +12,7 @@ interface StoreSettings {
   }
 
 let localSettings: StoreSettings = {
-  whatsappNumber: "+91 98765 43210",
+  whatsappNumber: "+91 85910 53565",
   bannerText: "✨ Royal Diwali Special: Order 1kg or more and receive a complimentary 250g assortment tin. Code: DIWALI26 ✨",
   bannerActive: false,
   storeHours: "9:00 AM - 10:00 PM",
